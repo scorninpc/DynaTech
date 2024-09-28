@@ -94,7 +94,7 @@
         <dependency>
             <groupId>io.papermc.paper</groupId>
             <artifactId>paper-api</artifactId>
-            <version>1.20.6-R0.1-SNAPSHOT</version>
+            <version>1.20.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
@@ -106,7 +106,7 @@
 	    <dependency>
 	        <groupId>com.github.Slimefun</groupId>
 	        <artifactId>Slimefun4</artifactId>
-	        <version>d25f22439e</version>
+	        <version>master-SNAPSHOT</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
